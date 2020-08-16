@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我人生中的两次死亡，以及一个椭圆
-date: 16：00 2020-8-8
+date: 2020-8-8
 Author: EthelTowne
 categories: 
 tags: [雜感]
