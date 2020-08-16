@@ -73,14 +73,14 @@ footer-text:
 #
 
 # 输入Disqus shortname，即可添加评论区，请查阅文档，设置自己的disqus站点，不要继续使用我的站点loffer
-disqus: etheltowne #shortname
+disqus: #etheltowne
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID: 7751d1f686a34b08f56c
+  clientSecret: c2ce14007eba5fdf0f68202f9f9feabcc39f5957
+  repo: etheltowne
+  owner: thirrith
 
 # 输入Google Analytics web tracking code
 google_analytics:
