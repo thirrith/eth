@@ -4,7 +4,7 @@ title: 琴圈粉帳@twosetweek關於「預警」之爭的看法
 date: 2020-4-25
 Author: EthelTowne
 categories: 
-tags: [雜感, 翻譯, 授權翻譯, TwoSet Violin]
+tags: [翻譯, 授權翻譯, TwoSet Violin]
 comments: true
 --- 
 
