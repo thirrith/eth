@@ -59,4 +59,5 @@ Plato and Shakespeare both speak of the mind's eye, that eye that alone sees int
 ---
 
 Stringfellow Barr, 1968
+
 Prepared by St. John’s College
