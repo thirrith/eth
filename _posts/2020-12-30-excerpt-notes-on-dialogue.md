@@ -1,6 +1,6 @@
 ---
 layout: post
-title: |書摘| Notes on Dialogue
+title: 【書摘】Notes on Dialogue
 date: 2020-12-30
 Author: EthelTowne
 categories: 
