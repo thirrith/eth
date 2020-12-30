@@ -34,8 +34,9 @@ There is one more feature of Dionysus to which the ivy crown particularly direct
 
 
 6
+
 Plutarch tells us that the night before his death Alcibiades dreamed that he was dressed in women's clothes. A courtesan was holding his head and painting his face with makeup. In the soul of this proudly aggressive man, it is a dream that expresses the wish for unmixed passivity: the wish to lose the need for practical reason, to become a being who could live entirely in the flux of eros and so avoid tragedy. But at the same time it is a wish to be no longer an erotic being; for what does not reach out to order the world does not love, and the self-sufficiency of the passive object is as unerotic as the self-sufficiency of the god. It is, we might say, a wish not to live in the world.
 
-
+---
 
 Martha Nussbaum, 'The speech of Alcibiades: a reading of the Symposium', *The Fragility of Goodness*
