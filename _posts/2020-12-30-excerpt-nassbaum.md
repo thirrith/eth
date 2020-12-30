@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: 書摘：Martha Nassbaum
 date: 2020-12-30
 Author: EthelTowne
 categories: 
