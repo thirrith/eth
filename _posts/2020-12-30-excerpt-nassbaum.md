@@ -4,7 +4,7 @@ title: 【書摘】Martha Nassbaum
 date: 2020-12-30
 Author: EthelTowne
 categories: 
-tags: [摘錄, Martha Nassbaum]
+tags: [摘錄]
 comments: true
 --- 
 
