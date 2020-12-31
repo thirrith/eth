@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【書摘】哲学的故事
-date: 2017-4-16
+date: 2016-8-4
 Author: EthelTowne
 categories: 
 tags: [摘錄]
