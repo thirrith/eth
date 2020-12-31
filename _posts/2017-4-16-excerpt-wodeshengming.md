@@ -4,7 +4,7 @@ title: 【書摘】我的生命
 date: 2017-4-16
 Author: EthelTowne
 categories: 
-tags: [摘錄, 平行世界歸檔, short quote]
+tags: [摘錄]
 comments: true
 --- 
 
